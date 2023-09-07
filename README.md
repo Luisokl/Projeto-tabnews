@@ -1,2 +1,3 @@
 # Projeto-tabnews
-Projeto para desenvolver um sistema completo 
+
+Projeto para desenvolver um sistema completo
